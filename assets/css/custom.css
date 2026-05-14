@@ -1,0 +1,16 @@
+.sidebar {
+  width: 300px;
+  min-width: 280px;
+  padding: 25px;
+}
+
+.page__content {
+  padding-left: 40px;
+}
+
+/* Mobile fix */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+  }
+}
