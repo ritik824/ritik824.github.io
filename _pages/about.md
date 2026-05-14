@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Ritik Soni"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+## Ritik Soni
 
 Institute Postdoctoral Fellow  
 Department of Mathematics and Statistics  
