@@ -3,7 +3,7 @@ locale: "en-US"
 
 site_theme: "default"
 
-title: "Ritik Soni | Academic Website"
+title: "Ritik Soni | Homepage"
 title_separator: "-"
 name: "Ritik Soni"
 description: "Personal academic website of Ritik Soni, IIT Kanpur"
@@ -18,9 +18,9 @@ author:
   avatar: "DP.jpeg"
   name: "Ritik Soni"
   pronouns: ""
-  bio: "Institute Postdoctoral Fellow, IIT Kanpur"
+  bio: "IPDF, IIT Kanpur"
   location: "Kanpur, Uttar Pradesh, India"
-  employer: "Indian Institute of Technology Kanpur"
+  employer: "IIT Kanpur"
 
   email: "ritiksoni2012@gmail.com"
 
