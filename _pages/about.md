@@ -9,7 +9,7 @@ redirect_from:
 
 # Ritik Soni
 
-Institute Postdoctoral Fellow (IPDF)
+Institute Postdoctoral Fellow (IPDF)  
 Department of Mathematics and Statistics  
 Indian Institute of Technology Kanpur
 
