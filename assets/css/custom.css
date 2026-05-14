@@ -1,54 +1,22 @@
+/* Sidebar spacing only (SAFE FIX) */
 
-/* =========================
-   SIDEBAR - CLEAN RESPONSIVE FIX
-   (NO OVERLAP, NO BREAKING)
-========================= */
-
-@media (min-width: 1024px) {
-  .sidebar {
-    width: 280px;
-    min-width: 280px;
-    max-width: 280px;
-
-    padding-left: 25px;
-    padding-right: 20px;
-
-    box-sizing: border-box;
-  }
-
-  /* Push main content properly */
-  .page__content {
-    margin-left: 300px;
-  }
+.sidebar {
+  padding-left: 25px;
+  padding-right: 20px;
 }
 
-/* Mobile view */
-@media (max-width: 1023px) {
-  .sidebar {
-    width: 100%;
-    max-width: 100%;
-    padding: 15px;
-  }
-
-  .page__content {
-    margin-left: 0;
-  }
-}
-
-/* Sidebar inner spacing */
+/* Add breathing space inside sidebar */
 .author__content {
   margin-left: 5px;
   margin-right: 5px;
 }
 
-/* Links spacing */
+/* Improve line spacing */
 .author__urls {
   line-height: 1.8;
 }
 
-/* Name styling */
+/* Make text look less cramped */
 .author__name {
   margin-bottom: 10px;
-  font-size: 22px;
-  font-weight: 700;
 }
