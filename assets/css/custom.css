@@ -1,8 +1,14 @@
 /* Sidebar spacing only (SAFE FIX) */
 
 .sidebar {
+  width: 28%;
+  min-width: 260px;
+  max-width: 380px;
+
   padding-left: 25px;
   padding-right: 20px;
+
+  box-sizing: border-box;
 }
 
 /* Add breathing space inside sidebar */
