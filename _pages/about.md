@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Ritik Soni
+# Ritik Soni
 
 Institute Postdoctoral Fellow  
 Department of Mathematics and Statistics  
