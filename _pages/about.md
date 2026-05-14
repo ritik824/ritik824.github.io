@@ -9,30 +9,20 @@ redirect_from:
 
 # Ritik Soni
 
-Institute Postdoctoral Fellow  
+Institute Postdoctoral Fellow (IPDF)
 Department of Mathematics and Statistics  
 Indian Institute of Technology Kanpur
 
-I am currently working under the supervision of Prof. Dootika Vats at IIT Kanpur.
+I am currently working under the mentorship of **Prof. Dootika Vats** at IIT Kanpur.
 
 My research interests include:
 
 - Markov chain Monte Carlo (MCMC) methods
-- Langevin dynamics
-- Stochastic processes
+- Langevin stochastic differential equations
+- Fractional stochastic processes
 - Bayesian computation
-- Applied probability
-- Stochastic differential equations
 
-I completed my PhD in Mathematics from the Central University of Punjab under the supervision of Dr. Ashok Kumar Pathak. My doctoral research focused on fractional stochastic processes and their applications in risk and reliability theory. Before joining IIT Kanpur, I held a postdoctoral position at Chennai Mathematical Institute.
-
-## Research Areas
-
-- Applied Probability
-- Stochastic Processes
-- Markov Chain Monte Carlo
-- Stochastic Differential Equations
-- Fractional Stochastic Processes
+I completed my PhD in Mathematics from the Central University of Punjab under the supervision of **Dr. Ashok Kumar Pathak**. My doctoral research focused on fractional stochastic processes and their applications in risk and reliability theory. Before joining IIT Kanpur, I held a postdoctoral position at **Chennai Mathematical Institute**.
 
 ## Current Research Domain
 
