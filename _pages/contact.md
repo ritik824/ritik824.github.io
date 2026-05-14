@@ -17,7 +17,7 @@ Department of Mathematics and Statistics
 - ritiks@iitk.ac.in  
 
 **Location:**  
-IIT Kanpur, Uttar Pradesh, India  
+615, ESB-II, IIT Kanpur, Uttar Pradesh, India  
 
 ---
 
