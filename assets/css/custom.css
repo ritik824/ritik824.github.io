@@ -1,16 +1,22 @@
+/* Sidebar spacing only (SAFE FIX) */
+
 .sidebar {
-  width: 300px;
-  min-width: 280px;
-  padding: 25px;
+  padding-left: 25px;
+  padding-right: 20px;
 }
 
-.page__content {
-  padding-left: 40px;
+/* Add breathing space inside sidebar */
+.author__content {
+  margin-left: 5px;
+  margin-right: 5px;
 }
 
-/* Mobile fix */
-@media (max-width: 768px) {
-  .sidebar {
-    width: 100%;
-  }
+/* Improve line spacing */
+.author__urls {
+  line-height: 1.8;
+}
+
+/* Make text look less cramped */
+.author__name {
+  margin-bottom: 10px;
 }
