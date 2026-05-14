@@ -5,32 +5,81 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+# Publications
+
+{% if site.author.googlescholar %}
+You can also find my articles on [Google Scholar]({{ site.author.googlescholar }}).
 {% endif %}
 
+---
 
+## Journal Articles
 
+### 2026
+
+**S. Shilpa, R. Soni, A.K. Pathak (2026)**  
+Bivariate mixture tempered space fractional Poisson process and shock models  
+*Fractional Calculus and Applied Analysis*  
+[Link](https://doi.org/)
+
+---
+
+**R. Soni, A.K. Pathak (2026)**  
+Tempered space fractional Poisson process with Poisson time  
+*SIAM Journal on Probability*  
+[Link](https://doi.org/)
+
+---
+
+### 2025
+
+**R. Soni, J. Gajda, A.K. Pathak (2025)**  
+Iterated tempered stable process  
+*Statistics & Probability Letters, 226, 110499*  
+[Link](https://doi.org/110499)
+
+---
+
+### 2024
+
+**R. Soni, A.K. Pathak, A. Di Crescenzo, A. Meoli (2024)**  
+Bivariate tempered space-fractional Poisson process and shock models  
+*Journal of Applied Probability*  
+[Link](https://doi.org/)
+
+---
+
+**R. Soni, A.K. Pathak (2024)**  
+Generalized iterated Poisson process and applications  
+*Journal of Theoretical Probability*  
+[Link](https://doi.org/)
+
+---
+
+**R. Soni, A.K. Pathak (2024)**  
+Generalized fractional negative binomial process  
+*Statistics & Probability Letters*  
+[Link](https://doi.org/)
+
+---
+
+**R. Soni, A.K. Pathak (2024)**  
+Generalized fractional risk process  
+*Methodology and Computing in Applied Probability*  
+[Link](https://doi.org/)
+
+---
+
+**R. Soni, P. Vellaisamy, A.K. Pathak (2024)**  
+Probabilistic extension of Fubini polynomials  
+*Bulletin of the Malaysian Mathematical Sciences Society*  
+[Link](https://doi.org/)
+
+---
+
+**R. Soni, P. Vellaisamy, A.K. Pathak (2024)**  
+Probabilistic generalization of Bell polynomials  
+*Journal of Analysis*  
+[Link](https://doi.org/)
