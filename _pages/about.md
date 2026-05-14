@@ -22,7 +22,7 @@ My research interests include:
 - Fractional stochastic processes
 - Bayesian computation
 
-I completed my PhD in Mathematics from the **Central University of Punjab** under the supervision of [Dr. Ashok Kumar Pathak](https://sites.google.com/view/dr-ashok-kumar-pathak-dms/home). My doctoral research focused on fractional stochastic processes and their applications in risk and reliability theory. Before joining IIT Kanpur, I held a postdoctoral position at **Chennai Mathematical Institute**.
+I completed my PhD in Mathematics from the **Central University of Punjab** under the supervision of [Dr. Ashok Kumar Pathak](https://sites.google.com/view/dr-ashok-kumar-pathak-dms/home). My doctoral research focused on fractional stochastic processes and their applications in risk and reliability theory. Before joining IIT Kanpur, I held a postdoctoral position at **Chennai Mathematical Institute**. I completed my M.Sc. in Mathematics from the **Indian Institute of Technology Delhi**, India, in 2019, and my B.Sc. in Mathematics from Dayal Singh College, **University of Delhi**, India, in 2017.
 
 ## Current Research Domain
 
