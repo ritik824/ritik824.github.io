@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Ritik Soni
-
 Institute Postdoctoral Fellow  
 Department of Mathematics and Statistics  
 Indian Institute of Technology Kanpur
