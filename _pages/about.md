@@ -22,11 +22,7 @@ My research interests include:
 - Applied probability
 - Stochastic differential equations
 
-Previously, I completed my PhD in Mathematics from the Central University of Punjab under the supervision of Dr. Ashok Kumar Pathak.
-
-My doctoral research focused on fractional stochastic processes and their applications in risk and reliability theory.
-
-Before joining IIT Kanpur, I held a postdoctoral position at Chennai Mathematical Institute.
+I completed my PhD in Mathematics from the Central University of Punjab under the supervision of Dr. Ashok Kumar Pathak. My doctoral research focused on fractional stochastic processes and their applications in risk and reliability theory. Before joining IIT Kanpur, I held a postdoctoral position at Chennai Mathematical Institute.
 
 ## Research Areas
 
@@ -34,15 +30,11 @@ Before joining IIT Kanpur, I held a postdoctoral position at Chennai Mathematica
 - Stochastic Processes
 - Markov Chain Monte Carlo
 - Stochastic Differential Equations
-- Fractional Processes
+- Fractional Stochastic Processes
 
-## Current Research
+## Current Research Domain
 
 - Robust and efficient Langevin algorithms
 - Fractional stochastic models
 - Diffusion processes governed by fractional differential operators
 - Bayesian computation and MCMC diagnostics
-
-## Contact
-
-Email: ritiksoni2012@gmail.com
