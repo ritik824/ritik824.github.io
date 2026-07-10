@@ -10,7 +10,7 @@ redirect_from:
 # Ritik Soni
 
 Institute Postdoctoral Fellow (IPDF)  
-Department of Statistics and Data Science
+Department of Statistics and Data Science 
 Indian Institute of Technology Kanpur
 
 I am currently working under the mentorship of [Prof. Dootika Vats](https://dvats.github.io/) at **IIT Kanpur**.
