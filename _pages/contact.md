@@ -10,7 +10,7 @@ author_profile: true
 **Name:** Ritik Soni  
 
 **Institution:** Indian Institute of Technology Kanpur  
-Department of Mathematics and Statistics  
+Department of Statistics and Data Science  
 
 **Email:**  
 - ritiksoni2012@gmail.com  
